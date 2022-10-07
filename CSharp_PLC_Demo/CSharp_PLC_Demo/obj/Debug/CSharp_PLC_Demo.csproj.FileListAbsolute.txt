@@ -1,0 +1,13 @@
+D:\R&D\siemens_PLC\PLC_Demo\c#\CSharp_PLC_Demo\CSharp_PLC_Demo\bin\Debug\CSharp_PLC_Demo.exe.config
+D:\R&D\siemens_PLC\PLC_Demo\c#\CSharp_PLC_Demo\CSharp_PLC_Demo\bin\Debug\CSharp_PLC_Demo.exe
+D:\R&D\siemens_PLC\PLC_Demo\c#\CSharp_PLC_Demo\CSharp_PLC_Demo\bin\Debug\CSharp_PLC_Demo.pdb
+D:\R&D\siemens_PLC\PLC_Demo\c#\CSharp_PLC_Demo\CSharp_PLC_Demo\bin\Debug\S7.Net.dll
+D:\R&D\siemens_PLC\PLC_Demo\c#\CSharp_PLC_Demo\CSharp_PLC_Demo\bin\Debug\S7.Net.xml
+D:\R&D\siemens_PLC\PLC_Demo\c#\CSharp_PLC_Demo\CSharp_PLC_Demo\obj\Debug\CSharp_PLC_Demo.FormMain.resources
+D:\R&D\siemens_PLC\PLC_Demo\c#\CSharp_PLC_Demo\CSharp_PLC_Demo\obj\Debug\CSharp_PLC_Demo.Properties.Resources.resources
+D:\R&D\siemens_PLC\PLC_Demo\c#\CSharp_PLC_Demo\CSharp_PLC_Demo\obj\Debug\CSharp_PLC_Demo.csproj.GenerateResource.cache
+D:\R&D\siemens_PLC\PLC_Demo\c#\CSharp_PLC_Demo\CSharp_PLC_Demo\obj\Debug\CSharp_PLC_Demo.csproj.CoreCompileInputs.cache
+D:\R&D\siemens_PLC\PLC_Demo\c#\CSharp_PLC_Demo\CSharp_PLC_Demo\obj\Debug\CSharp_PLC_Demo.csproj.CopyComplete
+D:\R&D\siemens_PLC\PLC_Demo\c#\CSharp_PLC_Demo\CSharp_PLC_Demo\obj\Debug\CSharp_PLC_Demo.exe
+D:\R&D\siemens_PLC\PLC_Demo\c#\CSharp_PLC_Demo\CSharp_PLC_Demo\obj\Debug\CSharp_PLC_Demo.pdb
+D:\R&D\siemens_PLC\PLC_Demo\c#\CSharp_PLC_Demo\CSharp_PLC_Demo\obj\Debug\CSharp_PLC_Demo.UIForm.resources
